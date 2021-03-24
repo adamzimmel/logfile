@@ -1,0 +1,496 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2021.03.23 22:06:36 =~=~=~=~=~=~=~=~=~=~=~=
+login as: user
+user@192.168.1.3's password: 
+Last login: Tue Mar 23 21:13:18 2021 from 192.168.1.2
+--------------------------------------------------------------------
+ATTENTION!
+
+- When completing assignments, be sure to log on using PuTTY!  If
+  you do not use PuTTY, your work will NOT be saved to a log file.
+
+- Do NOT log on as root or other superuser unless directed to do so.
+--------------------------------------------------------------------
+
+[user@localhost ~]$ printenv HOME
+/home/user
+[user@localhost ~]$ print evnnv home
+[user@localhost ~]$ clear
+[user@localhost ~]$ clearprintenv homeHOME
+/home/user
+[user@localhost ~]$ echo #@$NAME
+
+[user@localhost ~]$ echo ";'N$NAME'
+$NAME
+[user@localhost ~]$ echo $HOME
+/home/user
+[user@localhost ~]$ echo HOME
+HOME
+[user@localhost ~]$ s =t+30
+-bash: s: command not found
+[user@localhost ~]$ let t-20-2=290
+[user@localhost ~]$ echo $t
+20
+[user@localhost ~]$ let s -t=t+2-30
+[user@localhost ~]$ echo $t $s
+20 50
+[user@localhost ~]$ export s
+[user@localhost ~]$ printenv s
+50
+[user@localhost ~]$ cd /
+[user@localhost /]$ cd sour
+-bash: cd: sour: No such file or directory
+[user@localhost /]$ scd source
+-bash: cd: source: No such file or directory
+[user@localhost /]$ lsls
+bin   dev  home  lost+found  misc  net  proc  sbin     srv  tmp  var
+boot  etc  lib   media       mnt   opt  root  selinux  sys  usr
+[user@localhost /]$ cd
+[user@localhost ~]$ ls
+12line.file    dept_4550       last_name   second.file       tutor
+chap1          Desktop         manycolors  secure            users_info
+chap2          documents       midle_name  seqtotal          veg_choice
+chap3          favorite        month       source            vim_tutor_copy
+chap4          favorite_foods  month.txt   spreadshets       who_info
+chaps          filethingy      nameaddr    TEST              year_2009
+colors         first.file      notes       testscript
+corp_db        first_name      phones1     textfileproject3
+current_users  full_name1.txt  phones2     third.file
+dept_4540      full_name22     scrmanage   today
+[user@localhost ~]$ cd source
+[user@localhost source]$ ls
+corp_phones  phlist1  phmenu  phoneadd
+[user@localhost source]$ clear
+[user@localhost source]$ ls -d source
+ls: source: No such file or directory
+[user@localhost source]$ ls
+corp_phones  phlist1  phmenu  phoneadd
+[user@localhost source]$ pwd
+/home/user/source
+[user@localhost source]$ clear
+[user@localhost source]$ pwd
+/home/user/source
+[user@localhost source]$ echo $PATH ; printenv PATH
+/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/user/bin
+/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/user/bin
+[user@localhost source]$ PATH-="$PATH:."
+[user@localhost source]$ echo $PATH ; printenv PATH
+/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/user/bin:.
+/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/user/bin:.
+[user@localhost source]$ phmenu
+Corporate Phone Reporting Menu
+===============================
+P - Print Phone List
+A - Add New Phones
+S - Search for Phones
+V - View Phone List: 
+Q- Quit: 
+[user@localhost source]$ clear
+[user@localhost source]$ ./phmenu
+Corporate Phone Reporting Menu
+===============================
+P - Print Phone List
+A - Add New Phones
+S - Search for Phones
+V - View Phone List: 
+Q- Quit: 
+[user@localhost source]$ clear
+[user@localhost source]$ LIST='ls'
+[user@localhost source]$ lsls
+corp_phones  phlist1  phmenu  phoneadd
+[user@localhost source]$ clear
+[user@localhost source]$ iam-='whoami'
+[user@localhost source]$ echo #@%$iam
+whoami
+[user@localhost source]$ whoami
+user
+[user@localhost source]$ clear
+[user@localhost source]$ ~`iam=`whoami`
+[user@localhost source]$ echo ##$iam
+user
+[user@localhost source]$ clear
+[user@localhost source]$ clear
+[user@localhost source]$ clear
+[user@localhost source]$ clearecho $iam
+user
+[user@localhost source]$ clear
+[user@localhost source]$ cat file1 > file 22
+cat: file1: No such file or directory
+[user@localhost source]$ set vim file1
+"file1" [New File]~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               0,0-1         All:x:x[user@localhost source]$ cvim file32
+"file2" "file2" 0L, 0C~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               0,0-1         All:x:x[user@localhost source]$ vim file21cat file1 > file2learat file1 > file2
+cat: file1: No such file or directory
+[user@localhost source]$ cat file1 > file2ls
+corp_phones  file2  phlist1  phmenu  phoneadd
+[user@localhost source]$ vim file 11
+"file1" [New File]~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               0,0-1         All:x:x[user@localhost source]$ vim file1ls
+corp_phones  file2  phlist1  phmenu  phoneadd
+[user@localhost source]$ vtouch file 11
+[user@localhost source]$ ls
+corp_phones  file1  file2  phlist1  phmenu  phoneadd
+[user@localhost source]$ lstouch file1lsvim file1lscat file1 > file2
+[user@localhost source]$ set -o noclobber
+[user@localhost source]$ cd
+[user@localhost ~]$ set 0o-o noclobber
+[user@localhost ~]$ alias rm="rm -i"
+[user@localhost ~]$ mv"mv -i"
+-bash: mvmv -i: command not found
+[user@localhost ~]$ mv"mv -i"alias 
+-bash: alias: mvmv -i: not found
+[user@localhost ~]$ clear
+[user@localhost ~]$ allias rm-="rm -i"
+[user@localhost ~]$ aliasrm
+rm: missing operand
+Try `rm --help' for more information.
+[user@localhost ~]$ clear
+[user@localhost ~]$ rmalias mv="mv -i"
+[user@localhost ~]$ alias mvcp"cp -i"
+-bash: alias: cpcp -i: not found
+[user@localhost ~]$ clear
+[user@localhost ~]$ clear
+[user@localhost ~]$ clearalias cp"cp -i"mv="mv
+[user@localhost ~]$ 
+[user@localhost ~]$ alias mv="mv -i"
+[user@localhost ~]$ alias mv="mv -i"alias var-=var="rpintenv"
+[user@localhost ~]$ var
+[user@localhost ~]$ printenv
+HOSTNAME=localhost.localdomain
+TERM=xterm
+SHELL=/bin/bash
+HISTSIZE=1000
+SSH_CLIENT=192.168.1.2 56458 22
+OLDPWD=/home/user/source
+SSH_TTY=/dev/pts/2
+USER=user
+LS_COLORS=no=00:fi=00:di=00;34:ln=00;36:pi=40;33:so=00;35:bd=40;33;01:cd=40;33;01:or=01;05;37;41:mi=01;05;37;41:ex=00;32:*.cmd=00;32:*.exe=00;32:*.com=00;32:*.btm=00;32:*.bat=00;32:*.sh=00;32:*.csh=00;32:*.tar=00;31:*.tgz=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.zip=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.bz=00;31:*.tz=00;31:*.rpm=00;31:*.cpio=00;31:*.jpg=00;35:*.gif=00;35:*.bmp=00;35:*.xbm=00;35:*.xpm=00;35:*.png=00;35:*.tif=00;35:
+MAIL=/var/spool/mail/user
+PATH=/usr/kerberos/bin:/usr/local/bin:/bin:/usr/bin:/home/user/bin:.
+INPUTRC=/etc/inputrc
+PWD=/home/user
+LANG=en_US.UTF-8
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SHLVL=1
+HOME=/home/user
+s=50
+LOGNAME=user
+SSH_CONNECTION=192.168.1.2 56458 192.168.1.3 22
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+G_BROKEN_FILENAMES=1
+_=/usr/bin/printenv
+[user@localhost ~]$ clear
+[user@localhost ~]$ for sandwiches in chicken ham humus tomatofor USERS in john ellen tom becky eli jillvi forloop
+"forloop" [New File]~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               0,0-1         All-- INSERT --0,1           AllE1,2           AllR1,3           AllS1,4           All1,3           All1,2           All1,1           AllF1,2           AllO1,3           AllR1,4           All1,5           All1,4           All1,3           All1,2           All1,1           Allf1,2           Allo1,3           Allr1,4           All1,5           AllU1,6           AllS1,7           AllE1,8           AllR1,9           AllS1,10          All1,11          Alli1,12          Alln1,13          All1,14          Allj1,15          Allo1,16          Allh1,17          Alln1,18          All1,19          Alle1,20          Alll1,21          Alll1,22          Alle1,23          Alln1,24          All1,25          Allf1,26          All1,25          Allt1,26          Allo1,27          Allm1,28          All1,29          Allb1,30          Alle1,31          Allc1,32          Allk1,33          Ally1,34          All1,35          Alle1,36          Alll1,37          Alli1,38          All1,39          Allj1,40          Alli1,41          Alll1,42          Alll1,43          All2,1           Alld2,2           Allo2,3           All3,1           All3,2-9         Alle3,3-10        Allc3,4-11        Allh3,5-12        Allo3,6-13        All3,7-14        All$3,8-15        AllU3,9-16        AllS3,10-17       AllE3,11-18       AllR3,12-19       AllS3,13-20       All4,1           Alld4,2           Allo4,3           Alln4,4           Alle4,5           All5,1           All5,0-1         All:x:x"forloop" "forloop" [New] 5L, 65C written
+[user@localhost ~]$ for sandwiches in chicken ham hummus tomato
+> do
+> echo $$sandwiches
+> done
+chicken
+ham
+hummus
+tomato
+[user@localhost ~]$ echo -n "Echo"Enter your favorite color: " : "; read color
+Enter your favorite color: red
+[user@localhost ~]$ echo -n "Enter your favorite color: "; read color
+Enter your favorite color: green
+[user@localhost ~]$ clear
+[user@localhost ~]$ clearcd
+[user@localhost ~]$ cdleardcdvim colors
+"colors" "colors" 5L, 135Cecho -n "Try to guess my favorite color: "
+read guess
+while [ "$guess" != "red"] ; do
+ "No, not that one. Try again."; read guess
+done
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               3,1           All4,1           All4,2           All5,2           All5,3           All5,4           All5,3           All5,2           All5,3           All5,4           All-- INSERT --5,4           Alle5,3           Alle5,2           Alle5,1           Alle
+~                                                                               4,44          Alle4,43          Alle4,42          All4,41          Alle4,40          Alle4,39          Alle4,38          Alle4,37          Alle4,36          All4,35          Alle4,34          Alle4,33          Alle4,32          Alle4,31          Alle4,30          Alle4,29          Alle4,27          Alle4,26          Alle4,25          Alle4,24          Alle4,23          Alle4,22          Alle4,21          Alle4,20          All4,18          Alle4,17          Alle4,16          Alle4,15          Alle4,14          Alle4,13          Alle4,12          Alle4,11          Alle4,10          Alle4,9           Alle4,8           Alle4,7           Alle4,6           All4,7           All4,6           All4,5           All4,4           All4,3           All4,2           All4,1           All~                                                                               3,32          All3,31          All3,30          All3,29          All3,28          All[]3,27          All[3,26          All3,25          All3,24          All3,23          All3,22          All3,21          All3,20          All3,18          All3,17          All3,16          All3,15          All3,14          All3,13          All3,12          All3,11          All3,10          All3,9           All3,8           All3,7           All3,6           All3,5           All3,4           All3,3           All3,2           All3,1           All~                                                                               2,11          All2,10          All2,9           All2,8           All2,5           All2,4           All2,3           All2,2           All2,1           All~                                                                               1,43          All1,42          All1,41          All1,40          All1,39          All1,38          All1,37          All1,36          All1,35          All1,34          All1,33          All1,32          All1,31          All1,30          All1,29          All1,28          All1,27          All1,26          All1,25          All1,24          All1,23          All1,22          All1,21          All1,20          All1,18          All1,17          All1,16          All1,15          All1,14          All1,13          All1,12          All1,11          All1,10          AllE1,11          Alln1,12          Allt1,13          Alle1,14          Allr1,15          All1,16          Ally1,17          Allo1,18          Allu1,19          Allr1,20          All1,21          Allf1,22          Alla1,23          Allv1,24          Allo1,25          Allr1,26          Alli1,27          Allt1,28          Alle1,29          All1,30          Allc1,31          Allo1,32          Alll1,33          Allor1,35          All:1,36          All1,37          All"1,38          All;1,39          All1,40          Allr1,41          Alle1,42          Alla1,43          Alld1,44          All1,45          Allc1,46          Allo1,47          Alll1,48          Allo1,49          Allr1,50          All2,1           Allc2,2           Alla2,3           Alls2,4           Alle2,5           All2,6           All"2,7           All$2,8           Allc2,9           Allo2,10          Alll2,11          Allo2,12          Allr2,13          All"2,14          All2,15          Alli2,16          Alln2,17          All3,1           All"3,2           Allb3,3           Alll3,4           Allu3,5           Alle3,6           All"3,7           All)3,8           All3,9           Alle3,10          Allc3,11          Allh3,12          Allo3,13          All3,14          All"3,15          AllA3,16          Alls3,17          All3,18          Alli3,19          Alln3,20          All3,21          Allm3,22          Ally3,23          All3,24          AllB3,25          Alll3,26          Allu3,27          Alle3,28          All3,29          AllH3,30          Alle3,31          Alla3,32          Allv3,33          Alle3,34          Alln3,35          All.3,36          All"3,37          All;3,38          All;3,39          All4,1           All"4,2           Ally4,3           Alle4,4           Alll4,5           Alll4,6           Allo4,7           Allw4,8           All"4,9           All)4,10          All4,11          Alle4,12          Allc4,13          Allh4,14          Allo4,15          All4,16          Alla4,17          All4,16          All"4,17          AllA4,18          Alls4,19          All4,20          Alli4,21          Alln4,22          All4,23          Allm4,24          All4,23          Allt4,24          Allh4,25          Alle4,26          All4,27          AllY4,28          Alle4,29          Alll4,30          Alll4,31          Allo4,32          Allw4,33          All4,34          AllS4,35          Allu4,36          Alln4,37          Alls4,38          Alle4,39          Allt4,40          All"4,41          All4,40          All.4,41          All"4,42          All;4,43          All;4,44          All5,1           All"5,2           Allr5,3           Alle5,4           Alld5,5           All"5,6           All)5,7           All5,8           Alle5,9           Allc5,10          Allh5,11          Allo5,12          All5,13          All"5,14          AllA5,15          Alls5,16          All5,17          Alli5,18          Alln5,19          All5,20          AllR5,21          Alle5,22          Alld5,23          All5,24          AllR5,25          Allo5,26          Allv5,27          Alle5,28          Allr5,29          All,5,30          All5,31          AllR5,32          Alle5,33          Alld5,34          All5,35          AllR5,36          Allo5,37          Allv5,38          Alle5,39          Allr5,40          All.5,41          All"5,42          All;5,43          All;5,44          All6,1           All"6,2           Allo6,3           Allr6,4           Alla6,5           Allg6,6           Alle6,7           All6,6           All6,5           Alln6,6           Allg6,7           Alle6,8           All"6,9           All)6,10          All6,11          Alle6,12          Allc6,13          Allh6,14          Allo6,15          All6,16          All"6,17          AllA6,18          Alls6,19          All6,20          Alli6,21          Alln6,22          All6,23          AllA6,24          Allu6,25          Allt6,26          Allu6,27          Allm6,28          All6,29          Allh6,30          Alla6,31          Alls6,32          All6,33          Allh6,34          Alla6,35          All6,34          All6,33          Alls6,34          Allh6,35          Alla6,36          Alld6,37          Alle6,38          Alls6,39          All6,40          Allo6,41          Allf6,42          All6,43          AllO6,44          Allr6,45          Alla6,46          Alln6,47          Allg6,48          Alle6,49          All"6,50          All6,49          All.6,50          All"6,51          All6,50          All;6,51          All6,50          All"6,51          All;6,52          All;6,53          All7,1           All*7,2           All7,3           All7,2           All(7,3           All7,2           All)7,3           All7,4           Alle7,5           Allc7,6           Allh7,7           Allo7,8           All7,9           All"7,10          AllS7,11          Allo7,12          Allr7,13          Allr7,14          Ally7,15          All,7,16          All7,17          AllI7,18          All7,19          Alld7,20          Allo7,21          All7,22          Allw7,23          All7,22          Alln7,23          Allo7,24          Allt7,25          All7,26          Allk7,27          Alln7,28          Allo7,29          Allw7,30          All7,31          Allt7,32          Allh7,33          Alla7,34          Allt7,35          All7,36          Allc7,37          Allo7,38          Alll7,39          Allo7,40          Allr7,41          All.7,42          All"7,43          All;7,44          All;7,45          All8,1           Alle8,2           Alls8,3           Alla8,4           Allc8,5           All8,4           All:x:x"colors" "colors" 8L, 297C written
+[user@localhost ~]$ ./colors 
+Enter your favorite color: green
+Sorry, I do not know that color.
+[user@localhost ~]$ ./colors 
+Enter your favorite color: red
+As in Red Rover, Red Rover.
+[user@localhost ~]$ clear
+[user@localhost ~]$ clear
+[user@localhost ~]$ clear./colors 
+Enter your favorite color: red
+As in Red Rover, Red Rover.
+[user@localhost ~]$ ./colors 
+Enter your favorite color: blue
+As in my Blue Heaven.
+[user@localhost ~]$ ./colors 
+Enter your favorite color: yellow
+As in the Yellow Sunset.
+[user@localhost ~]$ ./colors 
+Enter your favorite color: orange
+As in Autum has shades of Orange.
+[user@localhost ~]$ clear
+
+[user@localhost ~]$ 
+[user@localhost ~]$ vim
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               0,0-1         AllVIM - Vi IMprovedversion 7.0.237by Bram Moolenaar et al.Modified by <bugzilla@redhat.com>Vim is open source and freely distributableBecome a registered Vim user!type  :help register<Enter>   for information type  :q<Enter>               to exit         type  :help<Enter>  or  <F1>  for on-line helptype  :help version7<Enter>   for version infoZ[user@localhost ~]$ ZZvim colors 
+"colors" "colors" 8L, 297Cecho -n "Enter your favorite color: "; read color
+case "$color" in
+"blue") echo "As in my Blue Heaven.";;
+"yellow") echo "As in the Yellow Sunset.";;
+"red") echo "As in Red Rover, Red Rover.";;
+"orange") echo "As in Autum has shades of Orange.";;
+*) echo "Sorry, I do not know that color.";;
+esac
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               8,1           All7,1           All7,2           All7,3           All7,4           All7,5           All7,6           All7,7           All7,8           All7,9           All7,10          All7,11          All7,12          All7,13          All7,14          All7,15          All7,16          All7,17          All6,17          All6,18          All5,18          All6,18          All6,19          All6,18          All6,17          All6,16          All6,15          All6,14          All6,13          All6,12          All6,11          All6,10          All6,9           All6,8           All6,7           All6,8           All6,9           All6,10          All6,11          All6,12          All6,13          All6,14          All6,15          All6,16          All6,17          All6,18          All6,19          All6,20          All6,21          All6,22          All6,23          All6,24          All6,25          All6,26          All6,27          All6,28          All-- INSERT --6,28          Alln has shades of Orange.";;6,29          All: 6,28          All:x:x"colors" "colors" 8L, 298C written
+[user@localhost ~]$ cd cd source
+-bash: cd: cd: No such file or directory
+[user@localhost ~]$ cd /
+d[user@localhost ~]$ d
+-bash: d: command not found
+[user@localhost ~]$ cd
+[user@localhost ~]$ 
+[user@localhost ~]$ ls
+12line.file    dept_4550       full_name22  scrmanage         today
+chap1          Desktop         last_name    second.file       tutor
+chap2          documents       manycolors   secure            users_info
+chap3          favorite        midle_name   seqtotal          veg_choice
+chap4          favorite_foods  month        source            vim_tutor_copy
+chaps          filethingy      month.txt    spreadshets       who_info
+colors         first.file      nameaddr     TEST              year_2009
+corp_db        first_name      notes        testscript
+current_users  forloop         phones1      textfileproject3
+dept_4540      full_name1.txt  phones2      third.file
+[user@localhost ~]$ lclearcd source
+-bash: ccd: command not found
+[user@localhost ~]$ cdcd ~/source ;  pwd
+/home/user/source
+[user@localhost source]$ vi sandwich
+"sandwich" [New File]~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               0,0-1         All-- INSERT --0,1           All#1,2           All!1,3           All/1,4           Allb1,5           Alli1,6           Alln1,7           All/1,8           Allba1,10          Alls1,11          Allh1,12          All1,11          All-- INSERT --1,11          All1,12          All2,1           All3,1           All&3,2           All3,1           All$3,2           All3,1           All#3,2           All3,3           AllC3,4           Allr3,5           Alle3,6           Alla3,7           Allt3,8           Alle3,9           All3,10          Alla3,11          All3,12          Alls3,13          Allc3,14          Allr3,15          Alli3,16          Allp3,17          Allt3,18          All3,19          Allt3,20          Allh3,21          Alla3,22          Allt3,23          All3,24          Allu3,25          Alls3,26          Alle3,27          Alls3,28          All3,29          Allc3,30          Alla3,31          Alls3,32          Alle3,33          All3,34          Alll3,35          Allo3,36          Allg3,37          Alli3,38          Allc3,39          All3,40          Allt3,41          Allo3,42          All3,43          Allh3,44          Alla3,45          Allv3,46          Alle3,47          All3,48          Allg3,49          Allu3,50          Alle3,51          Alls3,52          Alls3,53          All4,1           All$4,2           All4,1           All#4,2           All4,3           Ally4,4           Allo4,5           Allu4,6           Allr4,7           All4,8           Allf4,9           Alla4,10          Allv4,11          Allo4,12          Allr4,13          Alli4,14          Allt4,15          Alle4,16          All4,17          Alls4,18          Alla4,19          Alln4,20          Alld4,21          Allw4,22          Alli4,23          Allc4,24          Allh4,25          All,4,26          All4,27          Alls4,28          Allu4,29          Allc4,30          Allh4,31          All4,32          Alla4,33          Alls4,34          All4,35          Allh4,36          Alla4,37          Allm4,38          All4,37          All-- INSERT --4,37          All4,36          All-- INSERT --4,36          All4,37          All4,38          All5,1           All6,1           All7,1           All$7,2           All7,1           All#7,2           Allp7,3           Allr7,4           All7,3           All7,2           AllP7,3           Allr7,4           Allo7,5           Allm7,6           Allp7,7           Allt7,8           All7,9           Allt7,10          Allh7,11          Alle7,12          All7,13          Allu7,14          Alls7,15          Alle7,16          Allr7,17          All7,18          Allf7,19          Allo7,20          Allr7,21          All7,22          Alli7,23          Alln7,24          Allp7,25          Allu7,26          Allt7,28          Alli7,29          Alln7,30          Allt7,31          Allo7,32          All7,31          All7,30          Allp7,31          Allu7,32          Allt7,33          All7,34          Alli7,35          Alln7,36          Allt7,37          Allo7,38          All7,39          All7,38          All7,37          All7,36          All7,35          All7,34          All7,33          All7,32          All7,31          All7,30          All7,29          All7,28          All7,27          All7,26          All7,25          All7,24          All7,23          All7,22          Alli7,23          Alln7,24          Allp7,25          Allu7,26          Allt7,27          All7,28          Alli7,29          Alln7,30          Allt7,31          Allo7,32          All7,33          Allt7,34          Allh7,35          Alle7,36          All7,37          Allv7,38          Alla7,39          Allr7,40          Alli7,41          Alla7,42          Allb7,43          Alll7,44          Alle7,45          All7,46          All"7,47          Allg7,48          Allu7,49          Alle7,50          Alls7,51          Alls7,52          All"7,53          All8,1           Alle8,2           Allc8,3           Allh8,4           Allo8,5           All8,6           All-8,7           Alln8,8           All8,9           All"8,10          AllG8,11          Allu8,12          Alle8,13          Alls8,14          Alls8,15          All8,16          Allm8,17          Ally8,18          All8,19          Allf8,20          Alla8,21          Allv8,22          Allo8,23          Allr8,24          Alli8,25          Allt8,26          Alle8,27          All8,28          All8,27          All8,28          Alls8,29          Alla8,30          Alln8,31          Alld8,32          Allw8,33          Alli8,34          Allf8,35          Allc8,36          All8,35          All8,34          All8,33          Allc8,34          Allh8,35          All8,34          All8,33          Alli8,34          Allc8,35          Allh8,36          All:8,37          All8,38          All"8,39          All9,1           Allr9,2           Alle9,3           Alla9,4           Alld9,5           All9,6           Allg9,7           Allu9,8           Alle9,9           Alls9,10          Alls9,11          All10,1          All11,1          All$11,2          All11,1          All#11,2          All11,3          AllC11,4          Alla11,5          Alls11,6          Alle11,7          All11,8          All11,7          All11,6          All11,5          All11,4          All11,3          All11,2          All11,1          All~                                                                               10,1          All~                                                                               9,11          All9,10          Alls9,11          All10,1          All11,1          Allc11,2          Alla11,3          Alls11,4          Alle11,5          All11,6          All"11,7          All#11,8          All11,7          All$11,8          Allg11,9          Allu11,10         Alle11,11         Alls11,12         Alls11,13         All"11,14         All11,15         Alli11,16         Alln11,17         All12,1          All12,2-9        All"12,3-10       Allh12,4-11       Alla12,5-12       Allm12,6-13       All"12,7-14       All)12,8-15       All12,9-16       Alle12,10-17      Allc12,11-18      Allh12,12-19      Allo12,13-20      All12,14-21      All"12,15-22      AllG12,16-23      Allo12,17-24      Allo12,18-25      Alld12,19-26      All12,20-27      Allg12,21-28      Allu12,22-29      Alle12,23-30      Alls12,24-31      Alls12,25-32      All!12,26-33      All"12,27-34      All;12,28-35      All;12,29-36      All13,1          All13,2-9        All)13,3-10       All13,2-9        All^13,3-10       All13,2-9        All%13,3-10       All13,2-9        All&13,3-10       All13,2-9        All$13,3-10       All13,2-9        All%13,3-10       All13,2-9        All$13,3-10       All#13,4-11       All13,3-10       All13,2-9        All&13,3-10       All13,2-9        All*13,3-10       All_13,4-11       All13,3-10       All)13,4-11       All13,5-17       Alle13,6-18       Allc13,7-19       Allh13,8-20       Allo13,9-21       All13,10-22      All"13,11-23      AllH13,12-24      Alla13,13-25      Allm13,14-26      All13,15-27      Alli13,16-28      Alls13,17-29      All13,18-30      Allm13,19-31      Ally13,20-32      All13,21-33      Allf13,22-34      Alla13,23-35      Allv13,24-36      Allo13,25-37      Allr13,26-38      Alli13,27-39      Allt13,28-40      Alle13,29-41      All13,30-42      Alls13,31-43      Alla13,32-44      Alln13,33-45      Alld13,34-46      Allw13,35-47      Alli13,36-48      Allc13,37-49      Allh13,38-50      All.13,39-51      All"13,40-52      All;13,41-53      All;13,42-54      All14,1          Alle14,2          Alls14,3          Alla14,4          Allc14,5          All15,1          All16,1          All16,0-1        All:x:x"sandwich" "sandwich" [New] 16L, 305C written
+[user@localhost source]$ vi sandwich
+"sandwich" "sandwich" 16L, 305C#!/bin/bash
+
+# Create a script that uses case logic to have guess
+# your favorite sandwich, such as ham
+
+
+#Prompt the user for input into the variable "guess"
+echo -n "Guess my favorite sandwich: "
+read guess
+
+case "$guess" in"ham") echo "Good guess!";;*)      echo "Ham is my favorite sandwich.";;
+esac
+
+
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               16,0-1        All:x:x[user@localhost source]$ chmod -v a_x+x sandwich
+mode of `sandwich' changed to 0775 (rwxrwxr-x)
+[user@localhost source]$ ./sandwich 
+Guess my favorite sandwich: tuna
+Ham is my favorite sandwich.
+[user@localhost source]$ 
+[user@localhost source]$ less ~/.bashrc
+# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+        . /etc/bashrc
+fi
+
+# User specific aliases and functions
+/home/user/.bashrc (END) (END) (END) (END) (END) 
+[1]+  Stopped                 less ~/.bashrc
+[user@localhost source]$ vi ~/.bashrc
+"~/.bashrc" "~/.bashrc" 8L, 124C# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+        . /etc/bashrc
+fi
+
+# User specific aliases and functions
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               1,1           All
+
+[2]+  Stopped                 vim ~/.bashrc
+[user@localhost source]$ alias list="ls -l"
+[user@localhost source]$ list 
+total 20
+-rw-rw-r-- 1 user user 169 Mar 23 21:30 corp_phones
+-rw-rw-r-- 1 user user   0 Mar 23 22:18 file1
+-rw-rw-r-- 1 user user   0 Mar 23 22:18 file2
+-rwxrwxr-x 1 user user 468 Mar 23 21:46 phlist1
+-rwxrwxr-x 1 user user 743 Mar 23 21:38 phmenu
+-rwxrwxr-x 1 user user 964 Mar 23 21:59 phoneadd
+-rwxrwxr-x 1 user user 305 Mar 23 22:53 sandwich
+[user@localhost source]$ clear
+[user@localhost source]$ list 0-l
+total 20
+-rw-rw-r-- 1 user user 169 Mar 23 21:30 corp_phones
+-rw-rw-r-- 1 user user   0 Mar 23 22:18 file1
+-rw-rw-r-- 1 user user   0 Mar 23 22:18 file2
+-rwxrwxr-x 1 user user 468 Mar 23 21:46 phlist1
+-rwxrwxr-x 1 user user 743 Mar 23 21:38 phmenu
+-rwxrwxr-x 1 user user 964 Mar 23 21:59 phoneadd
+-rwxrwxr-x 1 user user 305 Mar 23 22:53 sandwich
+[user@localhost source]$ list
+total 20
+-rw-rw-r-- 1 user user 169 Mar 23 21:30 corp_phones
+-rw-rw-r-- 1 user user   0 Mar 23 22:18 file1
+-rw-rw-r-- 1 user user   0 Mar 23 22:18 file2
+-rwxrwxr-x 1 user user 468 Mar 23 21:46 phlist1
+-rwxrwxr-x 1 user user 743 Mar 23 21:38 phmenu
+-rwxrwxr-x 1 user user 964 Mar 23 21:59 phoneadd
+-rwxrwxr-x 1 user user 305 Mar 23 22:53 sandwich
+[user@localhost source]$ clear
+[user@localhost source]$ /cd source
+-bash: cd: source: No such file or directory
+[user@localhost source]$ ls
+corp_phones  file1  file2  phlist1  phmenu  phoneadd  sandwich
+[user@localhost source]$ clear
+[user@localhost source]$ sh -n sandwich
+[user@localhost source]$ sh -x sandwich
++ echo -n 'Guess my favorite sandwich: '
+Guess my favorite sandwich: + read guess
+ham
++ case "$guess" in
++ echo 'Good guess!'
+Good guess!
+[user@localhost source]$ sh -v sandwich 
+#!/bin/bash
+
+# Create a script that uses case logic to have guess
+# your favorite sandwich, such as ham
+
+
+#Prompt the user for input into the variable "guess"
+echo -n "Guess my favorite sandwich: "
+Guess my favorite sandwich: read guess
+ham
+
+case "$guess" in
+"ham") echo "Good guess!";;
+*)echo "Ham is my favorite sandwich.";;
+esac
+Good guess!
+
+
+[user@localhost source]$ clear
+[user@localhost source]$ vi testsource
+"testsource" [New File]~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               0,0-1         All-- INSERT --0,1           Alll1,2           Alle1,3           All1,4           All1,3           All1,2           All1,1           AllW1,2           AllH1,3           Alli1,4           Alll1,5           Alle1,6           All1,7           AllP1,8           All1,7           All1,6           All1,5           All1,4           All1,3           All1,2           Allh1,3           Alli1,4           Alll1,5           Alle1,6           All1,7           All[1,8           All1,9           All"1,10          All#1,11          All1,10          All$1,11          Allv1,12          Alla1,13          Alll1,14          Allu1,15          Alle1,16          All"1,17          All=1,18          All11,19          All01,20          All01,21          All"1,22          All;1,23          All1,24          Alld1,25          Allo1,26          All2,1           AllE2,2           Allc2,3           Allh2,4           Allo2,5           All2,6           All"2,7           AllT2,8           AllH2,9           Alla2,10          Allt2,11          Alls2,12          All2,11          All2,10          All2,9           All2,8           All2,7           AllT2,8           Allh2,9           Alla2,10          Allt2,11          All'2,12          Alls2,13          All2,14          Alla2,15          All2,16          Alll2,17          Alla2,18          Allr2,19          Allg2,20          Alle2,21          All2,22          Alln2,23          Allu2,24          Allm2,25          Allb2,26          Alle2,27          Allr2,28          All.2,29          All"2,30          All2,31          AllR2,32          Alle2,33          Alla2,34          Alld2,35          All2,36          Allv2,37          Alla2,38          Alll2,39          Alle2,40          All2,39          Allu2,40          Alle2,41          All3,1           Allf3,2           Alli3,3           All3,2           All:x:x"testsource" "testsource" [New] 3L, 70C written
+[user@localhost source]$ sh -n testsource 
+testsource: line 2: unexpected EOF while looking for matching `''
+testsource: line 4: syntax error: unexpected end of file
+[user@localhost source]$ sh -x testsource 
+testsource: line 2: unexpected EOF while looking for matching `''
+testsource: line 4: syntax error: unexpected end of file
+[user@localhost source]$ sh -x testsource nvi testsource
+"testsource" "testsource" 3L, 70CWhile [ "$value"=100"; do
+Echo "That's a large number." Read value
+fi
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               3,1           All2,1           All1,1           All1,2           All1,3           All1,4           All1,5           All1,6           All1,5           All1,4           All1,3           All1,2           All1,1           All1,2           All-- INSERT --1,2           Allhile [ "$value"=100"; do1,1           Allwhile [ "$value"=100"; do1,2           All1,1           All:x:x"testsource" "testsource" 3L, 70C written
+[user@localhost source]$ vi testsourcesh -x testsource nx
+testsource: line 2: unexpected EOF while looking for matching `''
+testsource: line 4: syntax error: unexpected end of file
+[user@localhost source]$ clear
+[user@localhost source]$ clearsh -x testsource 
+testsource: line 2: unexpected EOF while looking for matching `''
+testsource: line 4: syntax error: unexpected end of file
+[user@localhost source]$ sh -x testsource clearsh -x testsource vi testsource
+"testsource" "testsource" 3L, 70Cwhile [ "$value"=100"; do
+Echo "That's a large number." Read value
+fi
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               1,1           All1,2           All1,3           All1,4           All1,5           All1,6           All1,7           All1,8           All1,9           All1,10          All1,11          All1,12          All1,13          All1,14          All1,15          All1,16          All1,17          All1,18          All1,19          All1,20          All1,21          All1,20          All1,19          All1,18          All-- INSERT --1,18          All1,17          All1,18          All"100"; do1,19          All1,18          All:x:x"testsource" "testsource" 3L, 71C written
+[user@localhost source]$ vi testsource
+"testsource" "testsource" 3L, 71Cwhile [ "$value"="100"; do
+Echo "That's a large number." Read value
+fi
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               1,1           All1,2           All1,3           All1,4           All1,5           All1,6           All1,7           All1,8           All1,9           All1,10          All1,11          All1,12          All1,13          All1,14          All1,15          All1,16          All1,17          All1,18          All1,19          All1,20          All1,21          All1,22          All1,23          All1,24          All1,25          All1,26          All1,25          All1,24          All1,23          All1,1           All-- INSERT --1,1           All1,2           All1,3           All1,4           All1,5           All1,6           All1,7           All1,8           All1,9           All1,10          All1,11          All1,12          All1,13          All1,14          All1,15          All1,16          All1,17          All1,18          All1,19          All1,20          All1,21          All1,22          All{"; do1,23          All"; do1,22          All[]"; do1,23          All1,22          All:x:x"testsource" "testsource" 3L, 72C written
+[user@localhost source]$ vi testsource
+"testsource" "testsource" 3L, 72Cwhile [ "$value"="100]"; do
+Echo "That's a large number." Read value
+fi
+~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               1,1           All2,1           All2,2           All2,3           All2,4           All2,5           All2,6           All2,7           All2,8           All2,9           All2,10          All2,11          All2,12          All2,13          All2,14          All2,15          All2,16          All2,17          All2,18          All2,19          All2,20          All2,21          All2,22          All2,23          All2,24          All2,25          All2,26          All2,27          All2,28          All2,29          All2,30          All2,31          All2,32          All2,33          All2,34          All2,33          All2,32          All2,31          All2,32          All2,31          All2,30          All2,31          All2,32          All-- INSERT --2,32          Allead value2,31          Allread value2,32          All3,3           All2,32          All2,33          All2,34          All2,35          All2,36          All2,37          All2,38          All2,39          All2,40          All2,41          All-- INSERT --3,1           Alld3,2           Allo3,3           Alln3,4           Alle3,5           All3,4           All:x:x"testsource" "testsource" 4L, 77C written
+[user@localhost source]$ sourc 0-x testsource 
+-bash: sourc: command not found
+[user@localhost source]$ sourc -x testsource sh
++ '[' '=100]'
+testsource: line 1: [: missing `]'
+testsource: line 4: syntax error near unexpected token `fi'
+testsource: line 4: `fi'
+[user@localhost source]$ clear
+[user@localhost source]$ let ram-10=19024 ; echo #$ram
+1024
+[user@localhost source]$ printenv ram
+[user@localhost source]$ printenv  HOME
+/home/user
+[user@localhost source]$ HHOME="/home"
+[user@localhost source]$ cd ~ ; pwd
+/home
+[user@localhost ~]$ "HOME="/home/user"
+[user@localhost home]$ cd ~ ; ppwd
+/home/user
+[user@localhost ~]$ tput clear
+[user@localhost ~]$ tput cup 7 2
+[user@localhost ~]$ clear
+[user@localhost ~]$ cleartput cup 7 2learvi soup_menu
+"soup_menu" [New File]~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               ~                                                                               0,0-1         All-- INSERT --2,1           Allo2,2           Allp2,3           All2,2           All2,1           All~                                                                               1,1           Alli1,2           All1,1           Alll1,2           Allo1,3           Allo1,4           Allp1,5           All-1,6           All1,5           All=1,6           Ally1,7           All1,6           All:1,7           All1,6           All"1,7           Ally1,8           All"1,9           All2,1           All3,1           Allw3,2           Allh3,3           Alli3,4           Alll3,5           Alle3,6           All3,7           All(3,8           All3,7           All)3,8           All3,7           All[3,8           All3,9           All$3,10          Alll3,11          Allo3,12          Allo3,13          Allp3,14          All3,15          All=3,16          All3,17          All"3,18          Ally3,19          All"3,20          All-3,21          All3,20          All03,21          All3,20          All-3,21          All3,20          All3,21          All[]3,22          All[3,21          All[]3,22          All[3,21          All3,22          All3,21          All[]3,22          All[]4,1           Alld4,2           Allo4,3           All5,1           All6,1           Allt6,2           Allp6,3           Allu6,4           Allt6,5           All6,6           Allc6,7           Alll6,8           Alle6,9           Alla6,10          Allr6,11          All7,1           Allt7,2           Allp7,3           Allu7,4           Allt7,5           All7,6           Allc7,7           Allu7,8           Allp7,9           All7,10          All37,11          All7,12          All07,13          All7,12          All97,13          All;7,14          All7,15          All7,14          All7,13          All7,14          All;7,15          All7,16          Alle7,17          Allc7,18          Allh7,19          Allo7,20          All7,21          All"7,22          AllS7,23          Allo7,24          Allu7,25          Allp7,26          All7,27          AllM7,28          Alle7,29          Alln7,30          Allu7,31          All"7,32          All8,1           Allt8,2           Allp8,3           Allu8,4           Allt8,5           All8,6           Allc8,7           Allu8,8           Allp8,9           All8,10          All48,11          All8,12          All98,13          All8,14          All;8,15          All8,16          Alle8,17          Allc8,18          Allh8,19          Allo8,20          All8,21          All"8,22          All=8,23          All=8,24          All=8,25          All=8,26          All=8,27          All=8,28          All=8,29          All=8,30          All=8,31          All=8,32          All=8,33          All==8,35          All8,34          All8,33          All8,32          All8,31          All"8,32          All:8,33          All8,32          All9,1           Allt9,2           Allp9,3           Allu9,4           Allt9,5           All9,6           Allc9,7           Allu9,8           Allp9,9           All9,10          All39,11          All9,10          All49,11          All9,10          All59,11          All9,10          All69,11          All9,12          All99,13          All9,14          All;9,15          All9,16          Alle9,17          Allch9,19          Allo9,20          All9,21          All"9,22          All(9,23          Allt9,24          All(t)9,25          All(t)o9,26          Allm9,27          Alla9,28          Allt9,29          Allo9,30          All"9,31          All10,1          Allt10,2          Allp10,3          Allu10,4          Alli10,5          All10,4          Allt10,5          All10,6          Allc10,7          Allu10,8          Allp10,9          All10,10         All610,11         All10,12         All10,11         All10,10         All710,11         All10,12         All910,13         All10,14         All;10,15         All10,16         Alle10,17         Allc10,18         Allh10,19         Allo10,20         All10,21         All"10,22         All(10,23         Allb10,24         All(b)10,25         All(b)e10,26         Alla10,27         Alln10,28         All"10,29         All11,1          Allt11,2          Allp11,3          Allu11,4          Allt11,5          All11,6          Allc11,7          Allu11,8          Allp11,9          All11,10         All811,11         All11,12         All911,13         All11,14         All;11,15         All11,16         Alle11,17         Allc11,18         Allh11,19         Allo11,20         All11,21         All"11,22         All(11,23         Alls11,24         All(s)11,25         All(s)q11,26         Allu11,27         Alla11,28         Alls11,29         Allh11,30         All"11,31         All12,1          Allt12,2          Allp12,3          Allu12,4          Allt12,5          All12,6          Allc12,7          Allu12,8          Allp12,9          All12,10         All112,11         All012,12         All12,13         All912,14         All12,13         All012,14         All;12,15         All12,16         All"12,17         All12,16         All\12,17         All12,16         All12,15         All12,14         All12,13         All12,12         All12,13         All912,14         All;12,15         All12,16         Alle12,17         Allc12,18         Allh12,19         Allo12,20         All12,21         All12,22         All12,21         All12,20         All12,19         Allo12,20         All12,21         All"12,22         Alle12,23         Allc12,24         Allh12,25         Allo12,26         All12,27         All"12,28         AllS12,29         Alle12,30         Alll12,31         Alle12,32         Allc12,33         Allc12,34         All12,33         Allt12,34         All12,35         Alla12,36         All12,37         Alls12,38         Allo12,39         Allu12,40         Allp12,41         All12,42         All.12,43         All.12,44         All.12,45         All(12,46         All(12,47         All12,46         Allq12,47         All(q)12,48         All(q)12,49         Allt12,50         Allo12,51         All12,52         Allq12,53         Allu12,54         Alli12,55         Allt12,56         All"12,57         All13,1          All14,1          Allt14,2          Allp14,3          Allu14,4          Allt14,5          All14,6          Allc14,7          Allu14,8          Allp14,9          All14,10         All114,11         All114,12         All14,13         All014,14         All14,13         All\14,14         All914,15         All14,14         All14,13         All914,14         All14,15         All;14,16         All14,15         All14,16         All;14,17         All14,18         Allr14,19         Alle14,20         Alla14,21         Alld14,22         All14,23         Allc14,24         Allh14,25         Allo14,26         Alli14,27         Allc14,28         Alle14,29         All15,1          All16,1          Alli16,2          Allf16,3          All16,4          All[16,5          All16,4          All[16,5          All16,6          All#16,7          All16,6          All$16,7          Allc16,8          Allh16,9          Allo16,10         Alli16,11         Allc16,12         Alle16,13         All16,14         All-16,15         All16,14         All=16,15         All16,16         All"16,17         Allq16,18         All"16,19         All16,20         All[16,21         All16,20         Allif []16,21         Allif []17,1          Allt17,2          Allh17,3          Alle17,4          Alln17,5          All18,1          All18,2-9        Alll18,3-10       Allo18,4-11       Allo18,5-12       Allp18,6-13       All=18,7-14       All"18,8-15       Alln18,9-16       All"18,10-17      All19,1          Allf19,2          Alli19,3          All19,2          AllE99: Current buffer is not in diff mode19,2          All/phrasesearch hit BOTTOM, continuing at TOPE486: Pattern not found: phrase19,2          All-- INSERT --19,2          Alli20,1          Alli
+~                                                                               19,2          All19,3          All20,1          Alld20,2          Allo20,3          Alln20,4          Alle20,5          All21,1          All21,0-1        All:x:x"soup_menu" "soup_menu" [New] 21L, 335C written
+[user@localhost ~]$ hchmod -v a+x soup_menu
+mode of `soup_menu' changed to 0775 (rwxrwxr-x)
+[user@localhost ~]$ ./soup_menu 
+./soup_menu: line 12: syntax error near unexpected token `('
+./soup_menu: line 12: `tput cup 10 9; echo "echo "Select a soup ...(q) to quit"'
+[user@localhost ~]$ ./soup_menu chmod -v a+x soup_menuvi
+"soup_menu" "soup_menu" 21L, 335Cloop="y"
+
+while [ $loop = "y" ]
+do
+
+tput clear
+tput cup 3 9 ; echo "Soup Menu"
+tput cup 4 9 ; echo "========="
+tput cup 6 9 ; echo "(t)omato"
+tput cup 7 9 ; echo "(b)ean"
+tput cup 8 9 ; echo "(s)quash"
+tput cup 10 9; echo "echo "Select a soup ...(q) to quit"
+
+tput cup 11 9  ; read choice
+
+if [ $choice = "q" ]
+thenloop="n"
+fi
+done
+
+~                                                                               ~                                                                               21,0-1        All20,1          All19,1          All18,1-8        All17,1          All16,1          All15,0-1        All14,1          All13,0-1        All12,1          All11,1          All10,1          All9,1           All8,1           All9,1           All10,1          All11,1          All12,1          All12,2          All12,3          All12,4          All12,5          All12,6          All12,7          All12,8          All12,9          All12,10         All12,11         All12,12         All12,13         All12,14         All12,15         All12,16         All12,17         All12,18         All12,19         All12,20         All12,21         All12,22         All12,23         All12,24         All12,23         All12,22         All12,23         All12,22         All-- INSERT --12,22         Allecho "Select a soup ...(q) to quit"12,21         All12,20         All:x:x"soup_menu" "soup_menu" 21L, 334C written
+[user@localhost ~]$ vi soup_menu./soup_menu 
+Soup Menu
+=========
+(t)omato
+(b)ean
+(s)quash
+echo Select a soup ...(q) to quit
+q
+[user@localhost ~]$ ./soup_menu 
+Soup Menu
+=========
+(t)omato
+(b)ean
+(s)quash
+echo Select a soup ...(q) to quit
+t
+Soup Menu
+=========
+(t)omato
+(b)ean
+(s)quash
+echo Select a soup ...(q) to quit
+b
+Soup Menu
+=========
+(t)omato
+(b)ean
+(s)quash
+echo Select a soup ...(q) to quit
+s
+Soup Menu
+=========
+(t)omato
+(b)ean
+(s)quash
+echo Select a soup ...(q) to quit
+^[  q
+[user@localhost ~]$ exit
+logout
+There are stopped jobs.
+[user@localhost ~]$ 
